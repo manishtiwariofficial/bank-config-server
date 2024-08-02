@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related local APIs "
+  message: "Welcome to Bank accounts related local APIs 11"
   contactDetails:
     name: "Manish Tiwari - Developer"
     email: "manish@gmail.com"
