@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Customer related local APIs "
+  contactDetails:
+    name: "Manish Tiwari - Developer"
+    email: "manish@gmail.com"
+  onCallSupport:
+    - (+91) 9003018747
